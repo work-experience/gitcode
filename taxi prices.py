@@ -8,5 +8,7 @@ while cost == 0:
 	elif dis>1:
 		cost = ((cost + (2*dis))+addcost)
 		print ("Your cost is £",cost,)
+	else:
+		print("Error please try again")
 		
 	
