@@ -1,0 +1,1 @@
+This is a file to week 6 of the Algorithms challenge set by G Moore.
